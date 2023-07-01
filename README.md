@@ -1,7 +1,7 @@
 # Infrared-Solar-Modules-Classifier
 Evaluation of different Machine learning models to classify thermal images from PV panels.
 
-
+EJEMPLOOOOO ESTOY MODIFICANDOOOFFFFFF
 
 ## Data 
 Taken from --> https://github.com/RaptorMaps/InfraredSolarModules
